@@ -4,12 +4,65 @@ title: About
 permalink: /about/
 ---
 
-I am Groot (not really)
+I'm Justin Clark-Casey, a research software architect at the University of Cambridge in the UK.  I work on 
+[InterMine](http://intermine.org), a life sciences data integration platform and various side projects such as 
+[Buzzbang](http://buzzbang.science), an open-source and (as yet) extremely, extremely alpha prototype search engine for 
+life sciences data.
 
-### More Information
+I'm very interested in:
 
-Nothing yet
+* Knowledge graphs (as used by Google, Microsoft, Wikipedia, etc.) as used in science and 
+elsewhere.
+* AI and machine learning as applied to knowledge.
+* Open Linked Data, RDF, SPARQL, ontologies and other aspects of semantic knowledge bases.
+* Increased digitization of science. This encompasses initiatives such as 
+  * Making data FAIR (Findable, Accessible, Interoperable and Reuseable)
+  * Standardized workflow languages that can capture the scientific process and improve reproducibility of scientific 
+  results
+  * Ever increasing use of cloud infrastructure to accelerate and democratize scientific research.
+  
+Please don't hesitate to hit up my Twitter or e-mail if you want to chat or collaborate on any of these topics.
+
+I'm also active in: 
+
+* [ELIXIR](https://www.elixir-europe.org/), a distributed infrastructure for life-science information with resources
+across Europe.
+* [Bioschemas](http://bioschemas.org), an initiative to embed [schema.org](https://schema.org) markup (as sponsored by
+search engines such as Google and Microsoft) to make it easier to find life sciences data in the long tail of databases.
+
+Again, please don't hesitate to contact me if you'd like to talk about those organizations.
+
+Finally, in a previous life I was heavily involved with virtual-worlds, being a core developer, conference co-chair and 
+release manager for [OpenSimulator](http://opensimulator.org), an open-source Second Life compatible Internet-scale virtual
+worlds implementation. I don't work in this area anymore but if you have questions about history or maybe just want to
+reminisce then please Tweet me :).
+
+### Publications
+
+* Göksel Misirli, Curtis Madsen, Iñaki Sainz de Murieta, Matthieu Bultelle, Keith Flanagan, Matthew Pocock, Jennifer 
+Hallinan, James Alastair McLaughlin, Justin Clark-Casey, Mike Lyne, Gos Micklem, Guy-Bart Stan, Richard Kitney, Anil 
+Wipat. *Constructing Synthetic Biology Workflows in the Cloud* in Engineering Biology, vol. 1, no. 1, pp. 61-65, 6 2017.
+[doi: 10.1049/enb.2017.0001](http://ieeexplore.ieee.org/document/7991640/)
+* Maxime Déraspe, Gail Binkley, Daniela Butano, Matthew Chadwick, J. Michael Cherry, Justin Clark-Casey, Sergio 
+Contrino, Jacques Corbeil, Josh Heimbach, Kalpana Karra, Rachel Lyne, Julie Sullivan, Yo Yehudi, Gos Micklem, and Michel
+Dumontier. *Making Linked Data SPARQL with the InterMine Biological Data Warehouse* in Proceedings of the 9th 
+International Conference Semantic Web Applications and Tools for Life Sciences (SWAT4LS 2016), Amsterdam, The 
+Netherlands, December 5-8, 2016. http://ceur-ws.org/Vol-1795/
+* Justin Clark-Casey. *Transferring a Virtual Environment Client Session between Independent Opensimulator 
+Installations*, 2013 5th International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES), 
+Poole, 2013, pp. 1-3. http://ieeexplore.ieee.org/document/6624246/
+* Justin Clark-Casey. *Scaling OpenSimulator :An Examination of Possible Architectures for an Internet-Scale Virtual 
+Environment Network*, Oxford University MSc Software Engineering Thesis 2010. 
+https://figshare.com/articles/Scaling_OpenSimulator_An_Examination_of_Possible_Architectures_for_an_Internet_Scale_Virtual_Environment_Network/4833443
+
+### Media
+
+* FLOSS Weekly 72, OpenSimulator, TWiT poducast, https://twit.tv/shows/floss-weekly/episodes/72
 
 ### Contact me
 
-justincc AT justincc.org
+[@justincc at Twitter](https://twitter.com/justincc)
+
+[@justinccdev at Github](https://github.com/justinccdev)
+
+e-mail: justincc AT justincc.org
