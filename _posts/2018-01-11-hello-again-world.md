@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello again world
+title: Hello again, world
 ---
 
-New career, new blog (finally!)
+So after a couple of years off, I'm back to writing a blog again :)
