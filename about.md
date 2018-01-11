@@ -15,7 +15,7 @@ I'm very interested in:
 elsewhere.
 * AI and machine learning.
 * Open Linked Data, RDF, SPARQL, ontologies and other aspects of knowledge bases.
-* Increased digitization of science. This encompasses initiatives such as 
+* Increased digitization of science, particularly the life sciences. This encompasses initiatives such as 
   * Making data FAIR (Findable, Accessible, Interoperable and Reuseable)
   * Standardized workflow languages that can capture the scientific process and improve reproducibility of scientific 
   results
