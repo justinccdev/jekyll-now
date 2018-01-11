@@ -59,7 +59,7 @@ https://figshare.com/articles/Scaling_OpenSimulator_An_Examination_of_Possible_A
 
 ### Media
 
-* FLOSS Weekly 72, OpenSimulator, TWiT poducast, https://twit.tv/shows/floss-weekly/episodes/72
+* FLOSS Weekly 72, OpenSimulator, TWiT podcast, https://twit.tv/shows/floss-weekly/episodes/72
 
 ### Contact me
 
