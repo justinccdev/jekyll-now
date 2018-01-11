@@ -28,12 +28,13 @@ I'm also active in:
 * [ELIXIR](https://www.elixir-europe.org/), a distributed infrastructure for life-science information with resources
 across Europe.
 * [Bioschemas](http://bioschemas.org), an initiative to embed [schema.org](https://schema.org) markup (as sponsored by
-search engines such as Google and Microsoft) to make it easier to find life sciences data in the long tail of databases.
+search engines such as Google and Microsoft) in webpages and to use it to make it easier to find life sciences data in 
+the long tail of databases.
 
 Again, please don't hesitate to contact me if you'd like to talk about those organizations.
 
-Finally, in a previous life I was heavily involved with virtual-worlds, being a core developer, conference co-chair and 
-release manager for [OpenSimulator](http://opensimulator.org), an open-source Second Life compatible Internet-scale virtual
+Finally, in a previous life I was heavily involved with virtual-worlds, being a core developer, [conference co-chair](http://conference.opensimulator.org/2013/staff/), 
+consultant and release manager for [OpenSimulator](http://opensimulator.org), an open-source Second Life compatible Internet-scale virtual
 worlds implementation. I don't work in this area anymore but if you have questions about history or maybe just want to
 reminisce then please Tweet me :).
 
