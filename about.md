@@ -13,13 +13,13 @@ I'm very interested in:
 
 * Knowledge graphs (as used by Google, Microsoft, Wikipedia, etc.) as used in science and 
 elsewhere.
-* AI and machine learning as applied to knowledge.
-* Open Linked Data, RDF, SPARQL, ontologies and other aspects of semantic knowledge bases.
+* AI and machine learning.
+* Open Linked Data, RDF, SPARQL, ontologies and other aspects of knowledge bases.
 * Increased digitization of science. This encompasses initiatives such as 
   * Making data FAIR (Findable, Accessible, Interoperable and Reuseable)
   * Standardized workflow languages that can capture the scientific process and improve reproducibility of scientific 
   results
-  * Ever increasing use of cloud infrastructure to accelerate and democratize scientific research.
+  * Increasing use of cloud infrastructure to accelerate and democratize scientific research.
   
 Please don't hesitate to hit up my Twitter or e-mail if you want to chat or collaborate on any of these topics.
 
