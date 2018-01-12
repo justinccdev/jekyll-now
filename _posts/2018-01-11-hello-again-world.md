@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello again, world
+github_comments_issueid: 1
 ---
 
 So, after a couple of years off, I'm back to writing a blog again :). After 
