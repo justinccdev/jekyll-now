@@ -13,9 +13,9 @@ not least [running multiple conferences with 400+ attendees](http://conference.o
  despite [Gartner predicting that 80% of active Internet users would have an avatar in a virtual world by 2011](https://www.gartner.com/newsroom/id/503861), things
  didn't quite pan out that way.
  
-Of course, my idea of a break was to throw myself into another area :). I'd always been interested in 
+Of course, my idea of a break was to throw myself into another area :). I've always been interested in 
 genomics and related topics; being a thorough-going materialist, biology was, in a sense, just another information system to me, albeit one
-which was vastly more complicated and less tweakable than software! So when a job came up on Stack Overflow
+which was vastly more complicated and less tweakable than software. So when a job came up on Stack Overflow
 working on open-source data integration in synthetic biology at the University of Cambridge in the UK with the 
 [InterMine](https://intermine.org) project, I leapt at it and made the move.
 
