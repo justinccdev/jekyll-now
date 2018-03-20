@@ -45,7 +45,8 @@ reminisce then please tweet me :).
 
 ### Publications
 
-* Justin Clark-Casey. *Life sciences data needs to be FAIR*, https://www.software.ac.uk/blog/2018-01-30-life-sciences-data-needs-be-fair
+* Justin Clark-Casey. [*Life sciences data needs to be FAIR*](https://www.software.ac.uk/blog/2018-01-30-life-sciences-data-needs-be-fair),
+2018
 * Göksel Misirli, Curtis Madsen, Iñaki Sainz de Murieta, Matthieu Bultelle, Keith Flanagan, Matthew Pocock, Jennifer 
 Hallinan, James Alastair McLaughlin, Justin Clark-Casey, Mike Lyne, Gos Micklem, Guy-Bart Stan, Richard Kitney, Anil 
 Wipat. *Constructing Synthetic Biology Workflows in the Cloud* in Engineering Biology, vol. 1, no. 1, pp. 61-65, 6 2017.
