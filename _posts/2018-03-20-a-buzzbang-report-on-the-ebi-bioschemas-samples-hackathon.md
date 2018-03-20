@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Buzzbang report on the EBI Bioschemas Samples hackathon
-github_comments_issueid: 1
+github_comments_issueid: 2
 ---
 ![Buzzbang logo](http://www.buzzbang.science/static/images/logo.png)
 
