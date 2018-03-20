@@ -26,7 +26,11 @@ Please don't hesitate to hit up my Twitter or e-mail if you want to chat or coll
 I'm also active in: 
 
 * [ELIXIR](https://www.elixir-europe.org/), a distributed infrastructure for life-science information with resources
-across Europe.
+across Europe.  Here, I'm the [ELIXIR UK node technical co-ordinator](http://www.elixiruknode.org/key-roles/), 
+helping the 15 member organizations of ELIXIR UK (including Imperial College and the universities of Cambridge, Oxford
+and Manchester) to co-ordinate their technical strategy for interoperability, data and computation across the 
+bioinformatics infrastructure.
+
 * [Bioschemas](http://bioschemas.org), an initiative to embed [schema.org](https://schema.org) markup (as sponsored by
 search engines such as Google and Microsoft) in webpages and to use it to make it easier to find life sciences data in 
 the long tail of databases.
