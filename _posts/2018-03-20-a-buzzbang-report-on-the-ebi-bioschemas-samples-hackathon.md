@@ -52,4 +52,4 @@ the crawling backend and search frontend separate, so that other projects at the
 a crawler or common crawl dataset to power different search applications and uses.
 
 As with many of the things we do at the Micklem Lab, this is an open-source project and 
-[collaboration is very, very welcome](https://github.com/justinccdev/bsbang-crawler) :)
+[collaboration is very welcome](https://github.com/justinccdev/bsbang-crawler) :)
