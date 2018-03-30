@@ -14,6 +14,7 @@ I'm very interested in:
 * Knowledge graphs (as used by Google, Microsoft, Wikipedia, etc.) as used in science and 
 elsewhere.
 * Open Linked Data, RDF, SPARQL, ontologies and other aspects of knowledge bases.
+* Data integration in the life sciences.
 * AI and machine learning, especially over knowledge graphs and linked data.
 * Increased digitization of science, particularly the life sciences. This encompasses initiatives such as 
   * Making data FAIR (Findable, Accessible, Interoperable and Reuseable)
