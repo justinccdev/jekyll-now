@@ -53,15 +53,14 @@ Wipat. *Constructing Synthetic Biology Workflows in the Cloud* in Engineering Bi
 [doi: 10.1049/enb.2017.0001](http://ieeexplore.ieee.org/document/7991640/)
 * Maxime Déraspe, Gail Binkley, Daniela Butano, Matthew Chadwick, J. Michael Cherry, Justin Clark-Casey, Sergio 
 Contrino, Jacques Corbeil, Josh Heimbach, Kalpana Karra, Rachel Lyne, Julie Sullivan, Yo Yehudi, Gos Micklem, and Michel
-Dumontier. *Making Linked Data SPARQL with the InterMine Biological Data Warehouse* in Proceedings of the 9th 
+Dumontier. [*Making Linked Data SPARQL with the InterMine Biological Data Warehouse*](http://ceur-ws.org/Vol-1795/) in Proceedings of the 9th 
 International Conference Semantic Web Applications and Tools for Life Sciences (SWAT4LS 2016), Amsterdam, The 
-Netherlands, December 5-8, 2016. http://ceur-ws.org/Vol-1795/
-* Justin Clark-Casey. *Transferring a Virtual Environment Client Session between Independent Opensimulator 
-Installations*, 2013 5th International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES), 
-Poole, 2013, pp. 1-3. http://ieeexplore.ieee.org/document/6624246/
-* Justin Clark-Casey. *Scaling OpenSimulator :An Examination of Possible Architectures for an Internet-Scale Virtual 
-Environment Network*, Oxford University MSc Software Engineering Thesis 2010. 
-https://figshare.com/articles/Scaling_OpenSimulator_An_Examination_of_Possible_Architectures_for_an_Internet_Scale_Virtual_Environment_Network/4833443
+Netherlands, December 5-8, 2016.
+* Justin Clark-Casey. [*Transferring a Virtual Environment Client Session between Independent Opensimulator 
+Installations*](http://ieeexplore.ieee.org/document/6624246/), 2013 5th International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES), Poole, 2013, pp. 1-3. 
+* Justin Clark-Casey. [*Scaling OpenSimulator :An Examination of Possible Architectures for an Internet-Scale Virtual 
+Environment Network*](https://figshare.com/articles/Scaling_OpenSimulator_An_Examination_of_Possible_Architectures_for_an_Internet_Scale_Virtual_Environment_Network/4833443
+), Oxford University MSc Software Engineering Thesis 2010. 
 
 ### Media
 
