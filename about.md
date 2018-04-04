@@ -41,8 +41,8 @@ Again, please don't hesitate to contact me if you'd like to talk about those org
 Finally, in a previous life I was heavily involved with virtual-worlds, being a core developer, [conference co-chair](http://conference.opensimulator.org/2013/staff/), 
 consultant and release manager for [OpenSimulator](http://opensimulator.org), an open-source Second Life compatible Internet-scale distributed virtual
 worlds implementation. This was developed by tremendous group of volunteers, along with involvement from startups, 
-universities and large companies such as IBM and Intel. I don't work in this area anymore but if you have questions about history or maybe just want to
-reminisce then please tweet me :).
+universities and large companies such as IBM and Intel. [I don't work in this area anymore](http://www.hypergridbusiness.com/2015/08/opensim-community-loses-admired-leader/)
+but if you have questions about history or maybe just want to reminisce then please tweet me :).
 
 ### Publications
 
