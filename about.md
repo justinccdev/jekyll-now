@@ -65,7 +65,7 @@ Environment Network*](https://figshare.com/articles/Scaling_OpenSimulator_An_Exa
 
 ### Media
 
-* FLOSS Weekly 72, OpenSimulator, TWiT podcast, https://twit.tv/shows/floss-weekly/episodes/72
+* [FLOSS Weekly 72](https://twit.tv/shows/floss-weekly/episodes/72), OpenSimulator, TWiT podcast
 
 ### Contact me
 
