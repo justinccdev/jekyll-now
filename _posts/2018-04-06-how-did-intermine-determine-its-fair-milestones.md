@@ -10,7 +10,7 @@ to make data available through InterMine 'FAIR'.  What does this mean?  Well, fi
 Findable, Accessible, Interoperable and Reusable (I've written a lot more about this 
 [here](https://software.ac.uk/blog/2018-01-30-life-sciences-data-needs-be-fair)).
 
-Taken on its face this is a bit woolly - InterMine data is already FAIR!  You can find data (type some text in its
+Taken on its face this is a bit woolly - isn't InterMine data already FAIR?  You can find data (type some text in its
 general search box or perform a structured query), access it (click the web link), interoperate with it 
 (run a live query on its API) and reuse it (hey the data's there, download it).  Well, one of the great things about 
 FAIR is that it [has specific principles and recommendations on how to make data findable, accessible, interoperable and reusable](https://www.nature.com/articles/sdata201618).
