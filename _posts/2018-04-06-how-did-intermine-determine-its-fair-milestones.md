@@ -72,7 +72,7 @@ I3. (meta)data include qualified references to other
 required more interpretation, and in our proposal we related actions broadly to the principles (i.e. whether they 
 addressed one or more of findability, accessibility, etc.) rather than specific FAIR clauses.
 
-However, we wrote our proposal back in 2016.  Things are moving rapidly and many of the original FAIR paper authors
+However, we wrote our proposal some time ago.  Things are moving rapidly and many of the original FAIR paper authors
 are working on the [FAIR metrics](http://fairmetrics.org/) initiative, which will measure FAIRness with programattic
 and quantitative tests.  I think this is a great step and now something for anybody looking to FAIRify their data
 resource to look at closely.  We'll be looking to apply these metrics to our own work as we continue development.
