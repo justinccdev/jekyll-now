@@ -46,7 +46,7 @@ within an InterMine database.
 But there's a problem here.  These ID numbers are not persistent, as required by principle F1.  When the data in an
 InterMine installation like HumanMine is updated, this is not done additively, but rather than entire database is 
 rebuilt since data sources need to be integrated anew.  And on this rebuild, MYH7 is no longer guaranteed to have the
-internal InterMine ID 1157771.  In fact, it's very likely to be completely different.
+internal InterMine ID 1157771.  In fact, it's very likely to be different.
 
 So part of our proposal was to implement a resolution to this problem.  For InterMine as a data integration platform
 rather than a primary data provider it's a very complex topic, particularly as we're generic and model driven (so in
